@@ -634,8 +634,9 @@ header .intro-text {
 	padding-bottom: 100px;
 }
 
-#sobre img {
-	margin-bottom: 20px;
+.row img{
+	height: 300px;
+	width: 280px;
 }
 /*Habilidades*/
 
